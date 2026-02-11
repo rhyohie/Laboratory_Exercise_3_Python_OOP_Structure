@@ -1,0 +1,1 @@
+# Laboratory_Exercise_3_Python_OOP_Structure
